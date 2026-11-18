@@ -57,5 +57,7 @@
     "@types/node": "^24.0.0",
     "electron": "44.9.3",
     "ws": "8.21.3"
-  }
+  },
+  "description": "An air traffic control game in a 1950s style: draw an approach path from each aircraft to its runway or helipad across three airfields, with proximity alerts, wind gusts and fast-forward.",
+  "license": "MIT"
 }
